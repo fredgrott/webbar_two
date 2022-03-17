@@ -20,7 +20,7 @@ Mobile
 
 Here is the Medium Article via the friend free link:
 
-[article]()
+[article](https://fredgrott.medium.com/web-drawer-animation-with-webbar-1cdbb7544fd1?sk=1f9df1d5abd68138033a8294869119c2)
 
 Book stuff is at my GitHub IO website:
 
